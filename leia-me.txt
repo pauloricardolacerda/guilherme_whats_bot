@@ -1,8 +1,14 @@
-Precisa instalar na maquina:
-
-NodeJS: 
-
 Preencher os contatos em list.json, com o formato especificado no exemplo: 5567981079863 (codigo do pais)(ddd)(numero)
 
 phone: numero de telefone, ex: 5567981079863
 day: o dia de vencimento, ex: 05, 12, 15
+
+Precisa instalar na maquina:
+
+NodeJS: https://nodejs.org/en/
+
+Yarn: abrir o terminal e digitar npm i -g yarn
+
+Ir na pasta do projeto e digitar no terminal: yarn install
+
+e depois para rodar: node index.js
